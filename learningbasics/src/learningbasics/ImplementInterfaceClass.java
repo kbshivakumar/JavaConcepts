@@ -19,6 +19,7 @@ public class ImplementInterfaceClass implements interfaceClass{
 	@Override
 	public void interfaceMethod1() {
 		System.out.println("interfacemethod1");
+		System.out.println("Code used for commitment");
 		
 	}
 
